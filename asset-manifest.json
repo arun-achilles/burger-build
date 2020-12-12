@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/arun-achilles/.github.io/burge-build/static/css/main.cc017498.chunk.css",
-    "main.js": "/arun-achilles/.github.io/burge-build/static/js/main.fcd36d41.chunk.js",
-    "main.js.map": "/arun-achilles/.github.io/burge-build/static/js/main.fcd36d41.chunk.js.map",
-    "runtime-main.js": "/arun-achilles/.github.io/burge-build/static/js/runtime-main.d12be409.js",
-    "runtime-main.js.map": "/arun-achilles/.github.io/burge-build/static/js/runtime-main.d12be409.js.map",
-    "static/js/2.dd9ba4d0.chunk.js": "/arun-achilles/.github.io/burge-build/static/js/2.dd9ba4d0.chunk.js",
-    "static/js/2.dd9ba4d0.chunk.js.map": "/arun-achilles/.github.io/burge-build/static/js/2.dd9ba4d0.chunk.js.map",
-    "static/js/3.9ee8ac58.chunk.js": "/arun-achilles/.github.io/burge-build/static/js/3.9ee8ac58.chunk.js",
-    "static/js/3.9ee8ac58.chunk.js.map": "/arun-achilles/.github.io/burge-build/static/js/3.9ee8ac58.chunk.js.map",
-    "static/js/4.3401e64c.chunk.js": "/arun-achilles/.github.io/burge-build/static/js/4.3401e64c.chunk.js",
-    "static/js/4.3401e64c.chunk.js.map": "/arun-achilles/.github.io/burge-build/static/js/4.3401e64c.chunk.js.map",
-    "static/js/5.9c1e0755.chunk.js": "/arun-achilles/.github.io/burge-build/static/js/5.9c1e0755.chunk.js",
-    "static/js/5.9c1e0755.chunk.js.map": "/arun-achilles/.github.io/burge-build/static/js/5.9c1e0755.chunk.js.map",
-    "index.html": "/arun-achilles/.github.io/burge-build/index.html",
-    "static/css/main.cc017498.chunk.css.map": "/arun-achilles/.github.io/burge-build/static/css/main.cc017498.chunk.css.map",
-    "static/js/2.dd9ba4d0.chunk.js.LICENSE.txt": "/arun-achilles/.github.io/burge-build/static/js/2.dd9ba4d0.chunk.js.LICENSE.txt",
-    "static/js/3.9ee8ac58.chunk.js.LICENSE.txt": "/arun-achilles/.github.io/burge-build/static/js/3.9ee8ac58.chunk.js.LICENSE.txt",
-    "static/js/4.3401e64c.chunk.js.LICENSE.txt": "/arun-achilles/.github.io/burge-build/static/js/4.3401e64c.chunk.js.LICENSE.txt",
-    "static/js/5.9c1e0755.chunk.js.LICENSE.txt": "/arun-achilles/.github.io/burge-build/static/js/5.9c1e0755.chunk.js.LICENSE.txt",
-    "static/media/BurgerStyle.css": "/arun-achilles/.github.io/burge-build/static/media/top.3068d452.jpg"
+    "main.css": "/arun-achilles.github.io/burge-build/static/css/main.bc364cd2.chunk.css",
+    "main.js": "/arun-achilles.github.io/burge-build/static/js/main.5d3fa61d.chunk.js",
+    "main.js.map": "/arun-achilles.github.io/burge-build/static/js/main.5d3fa61d.chunk.js.map",
+    "runtime-main.js": "/arun-achilles.github.io/burge-build/static/js/runtime-main.4c35e7c2.js",
+    "runtime-main.js.map": "/arun-achilles.github.io/burge-build/static/js/runtime-main.4c35e7c2.js.map",
+    "static/js/2.dd9ba4d0.chunk.js": "/arun-achilles.github.io/burge-build/static/js/2.dd9ba4d0.chunk.js",
+    "static/js/2.dd9ba4d0.chunk.js.map": "/arun-achilles.github.io/burge-build/static/js/2.dd9ba4d0.chunk.js.map",
+    "static/js/3.9ee8ac58.chunk.js": "/arun-achilles.github.io/burge-build/static/js/3.9ee8ac58.chunk.js",
+    "static/js/3.9ee8ac58.chunk.js.map": "/arun-achilles.github.io/burge-build/static/js/3.9ee8ac58.chunk.js.map",
+    "static/js/4.3401e64c.chunk.js": "/arun-achilles.github.io/burge-build/static/js/4.3401e64c.chunk.js",
+    "static/js/4.3401e64c.chunk.js.map": "/arun-achilles.github.io/burge-build/static/js/4.3401e64c.chunk.js.map",
+    "static/js/5.9c1e0755.chunk.js": "/arun-achilles.github.io/burge-build/static/js/5.9c1e0755.chunk.js",
+    "static/js/5.9c1e0755.chunk.js.map": "/arun-achilles.github.io/burge-build/static/js/5.9c1e0755.chunk.js.map",
+    "index.html": "/arun-achilles.github.io/burge-build/index.html",
+    "static/css/main.bc364cd2.chunk.css.map": "/arun-achilles.github.io/burge-build/static/css/main.bc364cd2.chunk.css.map",
+    "static/js/2.dd9ba4d0.chunk.js.LICENSE.txt": "/arun-achilles.github.io/burge-build/static/js/2.dd9ba4d0.chunk.js.LICENSE.txt",
+    "static/js/3.9ee8ac58.chunk.js.LICENSE.txt": "/arun-achilles.github.io/burge-build/static/js/3.9ee8ac58.chunk.js.LICENSE.txt",
+    "static/js/4.3401e64c.chunk.js.LICENSE.txt": "/arun-achilles.github.io/burge-build/static/js/4.3401e64c.chunk.js.LICENSE.txt",
+    "static/js/5.9c1e0755.chunk.js.LICENSE.txt": "/arun-achilles.github.io/burge-build/static/js/5.9c1e0755.chunk.js.LICENSE.txt",
+    "static/media/BurgerStyle.css": "/arun-achilles.github.io/burge-build/static/media/top.3068d452.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d12be409.js",
+    "static/js/runtime-main.4c35e7c2.js",
     "static/js/3.9ee8ac58.chunk.js",
-    "static/css/main.cc017498.chunk.css",
-    "static/js/main.fcd36d41.chunk.js"
+    "static/css/main.bc364cd2.chunk.css",
+    "static/js/main.5d3fa61d.chunk.js"
   ]
 }
