@@ -116,8 +116,8 @@ export default class BurgerBuild extends Component {
                         <button className="ingrBtn" onClick={() => this.addRemoveIngredient('add','meat')}>Add</button>
                         <button className="ingrBtn" onClick={() => this.addRemoveIngredient('remove','meat')}>Remove</button>
                     </div>
+                    <button onClick={() => this.props.add(dish)}> Add To Cart </button>
                 </div>
-                <button onClick={() => this.props.add(dish)}> Add To Cart </button>
             </>
         );
     }

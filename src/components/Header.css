@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:900);
+
+.header-bar {
+    margin-top: -1.5em;
+    height: 6em;
+    background-color: #a764df;
+    z-index: 1000;
+}
+.header-title {
+    padding: 1em;
+    font-weight: bold;
+    font-family: Lato;
+    font-size: 30px;
+    color: white;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}

@@ -1,6 +1,6 @@
 {
-  "homepage": "https:/arun-achilles/.github.io/burge-build",
-  "name": "burger-react",
+  "homepage": "https:/arun-achilles.github.io/burge-build",
+  "name": "burger-build",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,6 +11,7 @@
     "@testing-library/user-event": "^7.2.1",
     "babel-plugin-transform-class-properties": "^6.24.1",
     "material-table": "^1.69.2",
+    "netlify-cli": "^2.69.6",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-scripts": "^4.0.1"
@@ -20,8 +21,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build"    
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
